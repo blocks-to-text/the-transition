@@ -2,11 +2,11 @@
 
 Moving from beginner-friendly programming environments like Scratch to "authentic" programming environments isn't about moving from visual and user-friendly to rainbow-colored text on a blank screen.  Professional development environments can be just as visual and helpful as scratch.  
 
-The difference is the task students are automating: 
-- Scratch is for creating videos, art, and games, so students write instructions for the Scratch application to generate these animations.
-- 'Authentic' programming is for interacting directly with data stored in the computer's memory system via a programming language, so programmers write instructions for the language interpreter directly on how to manipulate the computer memory system over time.  
+The difference is what students are programming: 
+- Scratch creates videos, art, and games, so students write instructions for the Scratch application to generate these animations.
+- 'Authentic' programming is for interacting directly with data stored in the computer's memory system via a programming language, so programmers write instructions for the computer directly on how to manipulate the memory system over time.  
 
-Professional programming environments can be just as visual and supportive as Scratch, it's just that they are designed to support a very different task.  Scratch is so intuitive because the objective is intuitive - creating videos and games.  Programming is challenging to learn because the objecitve (instructing a computer to manipulate data) is abstract and novel.
+Authentic programming environments can be just as visual and supportive as Scratch, it's just that they are designed to support a very different task.  Scratch is so intuitive because the objective is intuitive - creating videos and games.  Programming is challenging to learn because the objecitve (instructing a computer to manipulate data) is abstract and novel.
 
 ### Index:
 * [This is not comptutational thinking](#this-is-not-computational-thinking)
@@ -31,9 +31,9 @@ This requires a certain level of computational thinking that takes time to devel
 
 ## This is not Computational Thinking
 
- Comptuational thinking is necessary to successfully apply programming to real-world challenges, but is not necessary for mastering the toolset of a programmer. The transition from beginner environments to more authentic programming environments is an independant and parallel journey from developing algorithmic reasing. It is wholely possible to master a programming language and environment without having the slightest idea how to do something useful with it.
+Comptuational thinking is necessary to successfully apply programming to real-world challenges, but is not necessary for mastering the toolset of a programmer. The transition from beginner environments to more authentic programming environments is an independant and parallel journey from developing algorithmic reasing. It is wholely possible to master a programming language and environment without having the slightest idea how to do something useful with it.
  
- The techniques and tools presented here are not designed to develop computational thinking skills.  There is already an abundance of on and off-line activities designed to help students develop their logical problem solving.  What's more often missing are very practical resources on how to help students master the mechanics of programming to a level that they can confidently focus freely on real-world problems without getting slowed down by implementation.
+The techniques and tools presented here are not designed to develop computational thinking skills.  There is already an abundance of on and off-line activities designed to help students develop their logical problem solving.  What's more often missing are very practical resources on how to help students master the mechanics of programming to a level that they can focus freely on real-world problems without struggling too much with implementation.
 
 [TOP](#the-transition)
 
@@ -43,9 +43,9 @@ This requires a certain level of computational thinking that takes time to devel
 
 To prepare students for 'authentic' programming and environments you must first help them build an intuition for how computers & programming languages step through their execution, incrementally changing memory.  
 
-Moving your students from blocks to typing code is actually not necessary to achieve this learning objective.  How students generate their code isn't what's important, it's understanding how the program evolves over time that counts.
+Moving your students from blocks to typing code is actually not necessary to achieve this learning objective.  How students generate their code isn't what's important, it's understanding how the program evolves over time as it executes their instructions that counts.
 
-Being able to trace through code, predicting values in memory at different points in execution, and locating bugs are far more important skills than being able type code from a blank page.
+Being able to trace through code, predict values in memory at different points in execution, and locating bugs are far more important skills than being able type code from a blank page.
 
 [TOP](#the-transition)
 
